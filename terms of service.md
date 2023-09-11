@@ -1,4 +1,4 @@
-# [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot) Terms of Service
+# [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_id=1150540105069633676&permissions=8&scope=bot) Terms of Service
 
 Last Updated: 06/09/2023
 
